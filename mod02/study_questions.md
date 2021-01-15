@@ -10,7 +10,7 @@
 - Uncle 4
 
 The narrator and Ba met the four uncles at sea, likely on the fishing boat they
-used to flee Vietnam.
+used to flee Vietnam. They cannot speak English.
 
 - Ma (mother)
 - Ba (father)
@@ -28,7 +28,11 @@ Both unhappy about their new environment, to say the least.
 - Narrator
 
 Narrator feels trapped away from her mother and brother and feels like she has
-nobody to talk to about her experiences.
+nobody to talk to about her experiences. She can't speak any English.
+
+- Ba
+
+Definitely not fluent in English but can speak more than anyone else in the family.
 
 - Four Uncles
 
@@ -57,9 +61,14 @@ really strong presence and appears as a lesser shadow of his father, nearly.
 2. Identify the places in the narrative: list them by name and cite one or two facts about them.
 
 - Linda Vista
+
+It seems that Linda Vista is where they finally end up?
+
 - Green Apartment
 - Red Apartment
 - Mel's Place (is that the red apartment?)
+
+All six of them shared a single room in Mel's house.
 
 3. Are there any signs that the narrative is written from the perspective of a small child? Why? How? Give an example.
 
@@ -85,6 +94,10 @@ Mostly just describing a setting. Ba and the Narrator
 > Ba shook his head. "No. Not possible. There's no reason for us to go there."
 
 6. Give an example of a miscommunication based on cultural difference.
+
+When Ba asks Mel "why white" and Mel says that it's clean, Ba really just wanted
+to know why the walls being white was a good thing. I guess in Vietnam, perhaps
+white walls are a sign of death or something.
 
 7. Give an example of the importance of learning English in this narrative.
 
