@@ -1,0 +1,11 @@
+"Learn by Doing, Learn by Caring". When I first stepped foot into The Nueva school, I couldn't contain my smile. The natural light let in by the giant glass panes in the foyer illuminated the artwork on the multicolored walls and various furnishings. The teachers gave us the rundown of what the education plan would look like and the various group projects that we might explore during our time here. We were shown various parts of the campus before we were sat in one of the empty classrooms, ready to listen. When I went home that day, I already knew that this was going to be the perfect environment for me to socialize and enrich myself in. At least, it would've been if I actually got in.
+
+"Maybe you should've taken that test more seriously", said my friend who was accepted into Nueva. He didn't press it but he was right, wasn't he? And so I began my highschool education at a public highschool. Nothing wrong with that, right, just a normal high schooler. Nothing wrong with failing to live up to other people's expectations. Nothing wrong with being a failure.
+
+Those dusty indian red facades were my real welcome to school each morning. I was one of only two people from my middle school that was attending this high school. In this sea of about two thousand others, I knew nobody I could call a "friend". As I looked around me during break and lunch, it dawned on me that social groups formed from previous schools had already cauterized.
+
+One very unremarkable day, my mother asked me to take public transport back home since she was going to be out of town that evening. I got off the train and absentmindedly hopped on the bus. Today had been a day like any other at school, learning next to nothing, talking to nearly nobody, and unhappily sitting alone at break and lunch. As the bus crossed the bridge to the lake blue Oracle towers, I noticed someone in a "design tech" hoodie.
+
+"Hey, you go to design tech? One of my best friends goes there!", I asked her. After learning more about the school from her, I had the idea that maybe I could take myself out of my current school and transfer into d.tech. I emailed the office of admissions, which was really just one person, and set up an interview.
+
+The scent of burnt chocolate wafted into the autobody shop of the wacky and uncharacteristic school named "dtech". 
