@@ -1,11 +1,34 @@
-"Learn by Doing, Learn by Caring". When I first stepped foot into The Nueva school, I couldn't contain my smile. The natural light let in by the giant glass panes in the foyer illuminated the artwork on the multicolored walls and various furnishings. The teachers gave us the rundown of what the education plan would look like and the various group projects that we might explore during our time here. We were shown various parts of the campus before we were sat in one of the empty classrooms, ready to listen. When I went home that day, I already knew that this was going to be the perfect environment for me to socialize and enrich myself in. At least, it would've been if I actually got in.
+# “A Remembered Event”
 
-"Maybe you should've taken that test more seriously", said my friend who was accepted into Nueva. He didn't press it but he was right, wasn't he? And so I began my highschool education at a public highschool. Nothing wrong with that, right, just a normal high schooler. Nothing wrong with failing to live up to other people's expectations. Nothing wrong with being a failure.
+*2-3 pages*
 
-Those dusty indian red facades were my real welcome to school each morning. I was one of only two people from my middle school that was attending this high school. In this sea of about two thousand others, I knew nobody I could call a "friend". As I looked around me during break and lunch, it dawned on me that social groups formed from previous schools had already cauterized.
+In The Gangster We Are All Looking For, we are reading a series of remembered events that add up to a longer narrative. For this essay, I want you to focus on a remembered event from your own life—something specific and unique. You should have an idea of the event’s significance to your development, your sense of self, or even to choices you have made. This significance will serve as your thesis, or your driving idea.
 
-One very unremarkable day, my mother asked me to take public transport back home since she was going to be out of town that evening. I got off the train and absentmindedly hopped on the bus. Today had been a day like any other at school, learning next to nothing, talking to nearly nobody, and unhappily sitting alone at break and lunch. As the bus crossed the bridge to the lake blue Oracle towers, I noticed someone in a "design tech" hoodie.
+You should write this essay in the 1st person, that is, you should say “I.”
 
-"Hey, you go to design tech? One of my best friends goes there!", I asked her. After learning more about the school from her, I had the idea that maybe I could take myself out of my current school and transfer into d.tech. I emailed the office of admissions, which was really just one person, and set up an interview.
+Remember to ask yourself the following questions (gleaned from your handout):
 
-The scent of burnt chocolate wafted into the autobody shop of the wacky and uncharacteristic school named "dtech". 
+- Is the uniqueness of the experience clear to me? Have I figured out why it has special significance, especially if it is the kind of experience that many other people are likely to have had themselves?
+- How can I begin the narrative to arouse curiosity? Should I use dialogue? Description?
+- Is the story in chronological order? Does it go from beginning, middle to end? Or is it nonsynchronous—that is, out of chronological sequence. (Both are fine, but make sure you are clear.)
+- Is the story laced with details—of people, places and things? If not, how can I get them into the narrative?
+- What do I want my reader to learn about me from this story—what is the message, or the moral, and what does that say about my personality, sense of self, or future direction?
+- Will I reflect on the meaning of the experience, or will I leave the reflective evaluation out of the essay, as Le Thi Diem Thuy does? In other words, will I state to my reader why things are important, or will they just get an overall sense of it through reading.
+
+## Draft Feedback (5/5)
+
+> Missing MLA formatting. Refer to comments on document for specific errors, and to the MLA document formatting instructions in the Module 4 folder.
+
+*Mary Cudahy, Jan 26 at 11:56pm*
+
+> I feel like the connection between the elements--not getting into Nueva, struggling at Sequoia, finding Tech--are all clear in their own right, but that you need to connect the psychological process more--a few connecting sentences will do to show the disappointment(Nueva), resignation(Sequoia) and relief(Tech). I am also interested in the elements of Tech that your friend described--what was that unique schooling system like? Some dialogue would help. You will need to go over word count a little bit, which is fine.
+
+*Mary Cudahy, Jan 27 at 6:28pm*
+
+> Good essay. I like how the essay includes many details of the personal observation and feelings of the narrator which made it very good and unique. [ESSAY 1 - PEER REVIEW.docx](cole_gannon_essay1_peer_review_docx)
+
+*Thao Tu, Jan 28 at 12:26am*
+
+> Please add the information on top of the essay to follow to MLA format.
+
+*Thao Tu, Jan 28 at 12:29am*
