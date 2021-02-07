@@ -31,7 +31,7 @@ The Gangster We Are All Looking For deliberately confuses the reader. It incorpo
 
 ### Counterarguments
 
-Another important aspect of an evaluation is your anticipation of other viewpoints. You can easily incorporate your understanding of other viewpoints by devoting one of your body paragraphs to possible objections. This is known as counterarguing. 
+Another important aspect of an evaluation is your anticipation of other viewpoints. You can easily incorporate your understanding of other viewpoints by devoting one of your body paragraphs to possible objections. This is known as counterarguing.
 
 Example: Heidi Bub is a selfish American girl, who does not have enough cultural sensitivity to understand her Vietnamese family.
 
@@ -46,4 +46,4 @@ While it may seem that Heidi Bub was ill-prepared for her journey to Vietnam, co
 ### Evidence
 
 To support your evaluation, you will need to bring in evidence.
-Read handout called the quote sandwich. 
+Read handout called the quote sandwich.
