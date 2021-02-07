@@ -8,11 +8,11 @@ hope that this course isn't going to be ungodly difficult for me.
 
 Mod|Start|End
 -|-|-
-[mod01](mod01)|`09/23`|`09/27`
-[mod02](mod02)|`09/28`|`10/05`
-[mod03](mod03)|`10/06`|`10/20`
-[mod04](mod04)|`10/21`|`10/25`
-[mod05](mod05)|`10/26`|`11/03`
+[mod01](mod01)|`01/04`|`01/11`
+[mod02](mod02)|`01/12`|`01/18`
+[mod03](mod03)|`01/19`|`01/25`
+[mod04](mod04)|`01/26`|`02/01`
+[mod05](mod05)|`02/02`|`02/08`
 
 ## Essays
 
