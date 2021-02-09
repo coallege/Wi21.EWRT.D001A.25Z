@@ -19,6 +19,8 @@ I'm good at complaining.
 
 - Too much imagery
 
+- Makes the reader have to guess too much.
+
 - Metaphors that you're not entirely sure of
 	- Feels like trying to solve a crime
 
