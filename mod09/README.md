@@ -1,6 +1,6 @@
 # module 09
 
-1. Read ["The Things They Carried" by Tim O'Brien](the_things_they_carried.pdf)
+1. Read ["The Things They Carried" by Tim O'Brien](https://genius.com/Tim-obrien-the-things-they-carried-annotated)
 2. View Slides on ["The Things They Carried"](the_things_they_carried.pptx)
 3. Complete Discussion Questions on "The Things They Carried"
 4. Complete Discussion Forum
