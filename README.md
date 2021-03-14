@@ -16,10 +16,17 @@ Mod|Start|End
 [mod06](mod06)|`02/10`|`02/16`
 [mod07](mod07)|`02/14`|`02/22`
 [mod08](mod08)|`02/23`|`03/01`
+[mod09](mod09)|`03/02`|`03/08`
+[mod10](mod10)|`03/10`|`03/21`
+
+<!--
+I'm think most of the time the modules open up the day after class so some of
+these module open dates might be a little wrong. Class runs on Tuesday only.
+-->
 
 ## Essays
 
 Essay|Prompt|Draft|Final
 -|-|-|-
 [essay1](essay1)|mod02|mod03|mod04
-[essay2](essay2)|mod05
+[essay2](essay2)|mod05|mod06|mod07
