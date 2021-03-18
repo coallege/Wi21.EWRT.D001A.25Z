@@ -30,3 +30,5 @@ Essay|Prompt|Draft|Final
 -|-|-|-
 [essay1](essay1)|mod02|mod03|mod04
 [essay2](essay2)|mod05|mod06|mod07
+[essay3](essay3)|mod08|mod09|mod10
+[essay4](essay4)|mod10|mod10|mod10
