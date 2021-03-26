@@ -38,25 +38,35 @@ Instructions: Choose one of the following topics below. You will have a total of
 
 ## response
 
+<p>Cole Gannon</p>
+<p>Professor Cudahy</p>
+<p>EWRT 1A</p>
+<p>26 March 2021</p>
+
+<center><h3>A packing list not for our people!</h3></center>
+
 <p>
-Was the fight against the spread of communism really worth it? The USA's involvement in the Vietnam war seems inhuman from the perspective of Tim O'Brien's short story "The Things They Carried". O'Brien's writing sends a clear anti-war message by exposing the horrible strain it was putting upon young American men. To do this, he focuses on each burden, physical and emotional, that each soldier carries. This method, while unusual, is startlingly effective because of it's relatability, simplicity, and casual unreality through narrative flow.
+&emsp;&emsp;Was the fight against the spread of communism really worth it? The USA's involvement in the Vietnam war seems inhuman from the perspective of Tim O'Brien's short story "The Things They Carried". O'Brien's writing sends a clear anti-war message by exposing the horrible strain it was putting upon young American men. To do this, he focuses on each burden, physical and emotional, that each soldier carries. This method, while unusual, is startlingly effective because of it's relatability, simplicity, and casual unreality through narrative flow.
 </p>
 
 <p>
-"Rat Kiley carried comic books" (O'Brien 219). The characterization created by sharing burdens large and small, physical and emotional allow readers to connect with each character on a more personal level. Rat Kiley is not machine, but rather a young man. Kiowa is no cold hearted killer. He is a "devout Baptist" who carried around a bible with him at all times (O'Brien 219-220).
-
-- we can all relate to carrying burdens
-	- martha
-	-
-- it's a simple symbolism that highlights the unspoken toils of each soldier
-> To carry something was to hump it, as when Lieutenant Jimmy Cross humped his love for Martha up the hills and through the swamps. In its intransitive form, to hump meant to walk, or to march, but it implied burdens far beyond the intransitive.
-
-> Ted Lavender, who was scared, carried 34 rounds when he was shot and killed outside Than Khe, and he went down under an exceptional burden, more than 20 pounds of ammunition, plus the flak jacket and helmet and rations and water and toilet paper and tranquilizers and all the rest, plus the unweighed fear. He was dead weight. There was no twitching or flopping. Kiowa, who saw it happen, said it was like watching a rock fall, or a big sandbag or something—just boom, then down—not like the movies where the dead guy rolls around and does fancy spins and goes ass over teakettle—not like that, Kiowa said, the poor bastard just flat-fuck fell. Boom. Down.
-
-Just like the characters in the story we can all relate to carrying emotional burdens of our own. 
+&emsp;&emsp;"Rat Kiley carried comic books" (O'Brien 219). The characterization created by sharing burdens large and small, physical and emotional allow readers to connect with each character on a more personal level. Rat Kiley is not machine, but rather a young man. Kiowa is no cold hearted killer. He is a "devout Baptist" who carried around a bible with him at all times (O'Brien 219-220). Ted Lavender who died "exceptional burden", carried not only excess combat materials, but also "unweighed fear" (O'Brien 222). Fear is one of the most human feelings to have. In that circumstance, it is not difficult to imagine how scared one might feel. Even though these physical items allow readers to connect and relate with the soldiers on a more basic level, O'Brien exposes deeper outlets of connection using the symbolism of carrying emotional weight.
+</p>
 
 <p>
-O'Brien's interleaving of casual packing list and intimate plot events is a clever usage of the list's narrative flow. By anchoring the story to the central theme of items a soldier might carry, O'Brien is able to deviate into sub plots while establishing a cohesive flow by means of continuing the list once the tangent is at maturity.
+&emsp;&emsp;Just like the characters in the story we can all relate to carrying emotional burdens of our own. Past regrets of missed opportunities, present tragedy, or anxiety about future events to occur are all widespread and common human feelings. While the symbolism O'Brien uses is simple, it's effectiveness cannot be understated. O'Brien makes no attempt to obscure meaning. In this regard, he even explicitly points it out:
+</p>
+
+<blockquote>
+To carry something was to hump it... In its intransitive form, to hump meant to walk, or to march, but it implied burdens far beyond the intransitive. (O'Brien 220)
+</blockquote>
+
+<p>
+O'Brien wanted the story to be accessable, even for those with developing analytical skills. To him, the meaning behind the symbolism was more important than the symbolism itself. Cross' daydreaming and obsession over Martha is just one such example. His unrequited love serves as a burden that he carries around with him everywhere he goes. Even when Cross burns the letters from Martha to try relieve himself of the weight, he "realized it was only a gesture" (O'Brien 235) and that the burden he carried was no physical weight.
+</p>
+
+<p>
+&emsp;&emsp;O'Brien's interleaving of a casual packing list and intimate plot events is a clever usage of the list's narrative flow. By anchoring the story to the central theme of items a soldier might carry, O'Brien is able to deviate into sub plots while establishing a cohesive flow by means of continuing the list once the tangent is at maturity.
 </p>
 
 <blockquote>
@@ -68,10 +78,10 @@ The brutality of burning Than Khe is deliberately abrupt to catch readers off gu
 </p>
 
 <p>
+&emsp;&emsp;O'Brien's experience in Vietnam wiped away any illusion of a "useful" war. During a period of fierce debate about the legitimacy of the Vietnam war, O'Brien's goal was to persuade readers that there truly was no sense in forcing young American men to die in situations so harsh, they are mistakable for a fever dream. O'Brien's unique usage of conveying events using a nearly packing list-like formula allows a wide swath of readers to empathize with soldiers on a more personal level by understanding their circumstance and humanity.
+</p>
 
-
-## works cited
-
-1. O'Brien, Tim. The Things They Carried. Houghton Mifflin, 1990.
+<h4>Works Cited</h4>
+<ol><li>O'Brien, Tim. The Things They Carried. Houghton Mifflin, 1990.</li></ol>
 
 <!-- Heh, that's funny. I guess we read the books in citation order. -->
