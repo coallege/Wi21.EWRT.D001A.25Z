@@ -46,11 +46,11 @@ Instructions: Choose one of the following topics below. You will have a total of
 <center><h3>A packing list not for our people!</h3></center>
 
 <p>
-&emsp;&emsp;Was the fight against the spread of communism really worth it? The USA's involvement in the Vietnam war seems inhuman from the perspective of Tim O'Brien's short story "The Things They Carried". O'Brien's writing sends a clear anti-war message by exposing the horrible strain it was putting upon young American men. To do this, he focuses on each burden, physical and emotional, that each soldier carries. This method, while unusual, is startlingly effective because of it's relatability, simplicity, and casual unreality through narrative flow.
+&emsp;&emsp;Nobody should ever have to bear the burden that American soldiers in Vietnam did. In O'Brien's short story "The Things They Carried", he sends a clear anti-war message by exposing the horrible strain it was putting upon young American men. To do this, he focuses on each burden, physical and emotional, that each soldier carries. This method, while unusual, is startlingly effective because of it's relatability, simplicity, and casual unreality through narrative flow.
 </p>
 
 <p>
-&emsp;&emsp;"Rat Kiley carried comic books" (O'Brien 219). The characterization created by sharing burdens large and small, physical and emotional allow readers to connect with each character on a more personal level. Rat Kiley is not machine, but rather a young man. Kiowa is no cold hearted killer. He is a "devout Baptist" who carried around a bible with him at all times (O'Brien 219-220). Ted Lavender who died "exceptional burden", carried not only excess combat materials, but also "unweighed fear" (O'Brien 222). Fear is one of the most human feelings to have. In that circumstance, it is not difficult to imagine how scared one might feel. Even though these physical items allow readers to connect and relate with the soldiers on a more basic level, O'Brien exposes deeper outlets of connection using the symbolism of carrying emotional weight.
+&emsp;&emsp;The characterization created by sharing burdens large and small, physical and emotional, allow readers to connect with each character on a more personal level. Rat Kiley is not machine, but rather a young man who "carried comic books" (O'Brien 219). Kiowa is no cold hearted killer. He is a "devout Baptist" who carried a bible with him at all times (O'Brien 219-220). Ted Lavender, who died under an "exceptional burden", carried not only excess combat materials, but also "unweighed fear" (O'Brien 222). Fear is one of the most human feelings to have. In that circumstance, it is not difficult to imagine how scared one might feel. Even though these physical items allow readers to connect and relate with the soldiers on a more basic level, O'Brien exposes deeper outlets of connection using the symbolism of carrying emotional weight.
 </p>
 
 <p>
@@ -66,7 +66,7 @@ O'Brien wanted the story to be accessable, even for those with developing analyt
 </p>
 
 <p>
-&emsp;&emsp;O'Brien's interleaving of a casual packing list and intimate plot events is a clever usage of the list's narrative flow. By anchoring the story to the central theme of items a soldier might carry, O'Brien is able to deviate into sub plots while establishing a cohesive flow by means of continuing the list once the tangent is at maturity.
+&emsp;&emsp;The symbolism is effective beyond its means of connecting readers to characters. It also allows O'Brien to create an interesting narrative flow by interleaving a casual packing list with intimate events. By anchoring the story to the central theme of items a soldier might carry, O'Brien is able to deviate into subplots while establishing a cohesive flow by means of returning to the list once the tangent is at maturity.
 </p>
 
 <blockquote>
@@ -74,7 +74,15 @@ Afterward they burned Than Khe. They marched until dusk, then dug their holes, a
 </blockquote>
 
 <p>
-The brutality of burning Than Khe is deliberately abrupt to catch readers off guard. O'Brien does not dwell on it, however, and provides no further details. Marching on with the story nearly normalizes such an event, creating an absence of effect for readers. The soldiers in the story were caught up in this miasma of unreality as well. Ted Lavender's death shocks the entire platoon: "The guy's dead, he kept saying, which seemed profound—the guy's dead. I mean really." (O'Brien 227). The war and the brutalities were not an illusion, however. Young American men really did go to Vietnam to die for an unjust and unpopular war.
+The brutality of burning Than Khe is deliberately abrupt to catch readers off guard. O'Brien does not dwell on it, however, and provides no further details. Marching on with the story nearly normalizes such an event, creating an absence of effect for readers. The soldiers in the story were caught up in this miasma of unreality as well. Ted Lavender's death shocks the entire platoon:
+</p>
+
+<blockquote>
+The guy's dead, he kept saying, which seemed profound—the guy's dead. I mean really. (O'Brien 227)
+</blockquote>
+
+</p>
+The war and the brutalities were not an illusion, however. Young American men really did go to Vietnam to die for an unjust and unpopular war.
 </p>
 
 <p>
